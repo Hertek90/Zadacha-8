@@ -1,0 +1,15 @@
+C:\Projects\Zadacha 2 C#\Zadacha-8\bin\Debug\net6.0\Zadacha-8.exe
+C:\Projects\Zadacha 2 C#\Zadacha-8\bin\Debug\net6.0\Zadacha-8.deps.json
+C:\Projects\Zadacha 2 C#\Zadacha-8\bin\Debug\net6.0\Zadacha-8.runtimeconfig.json
+C:\Projects\Zadacha 2 C#\Zadacha-8\bin\Debug\net6.0\Zadacha-8.dll
+C:\Projects\Zadacha 2 C#\Zadacha-8\bin\Debug\net6.0\Zadacha-8.pdb
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.csproj.AssemblyReference.cache
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.AssemblyInfoInputs.cache
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.AssemblyInfo.cs
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.csproj.CoreCompileInputs.cache
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.dll
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\refint\Zadacha-8.dll
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.pdb
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\Zadacha-8.genruntimeconfig.cache
+C:\Projects\Zadacha 2 C#\Zadacha-8\obj\Debug\net6.0\ref\Zadacha-8.dll
